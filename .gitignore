@@ -1,0 +1,5 @@
+log/*.log
+tmp/**/*
+delme.*
+.*.sw*
+.DS_Store
